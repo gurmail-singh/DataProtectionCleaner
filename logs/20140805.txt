@@ -1,0 +1,417 @@
+2014-08-05 09:48:21.850 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 09:48:21.853 ERROR: //home//gsingh//testData year 2
+2014-08-05 09:58:13.989 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 09:58:14.019 ERROR: //home//gsingh//testData year 2
+2014-08-05 10:38:35.219 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 10:38:35.221 ERROR: //home//gsingh//testData year 2
+2014-08-05 10:46:41.556 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 10:46:41.560 ERROR: //home//gsingh//testData year 2
+2014-08-05 10:49:37.487 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 10:49:37.492 ERROR: //home//gsingh//testData year 2
+2014-08-05 11:21:12.185 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 11:21:12.187 ERROR: //home//gsingh//testData year 2
+2014-08-05 11:26:27.535 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 11:26:27.537 ERROR: //home//gsingh//testData year 2
+2014-08-05 11:32:13.664 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 11:32:13.696 ERROR: //home//gsingh//testData year 2
+2014-08-05 12:07:37.960 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:07:37.984 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:12:37.792 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:12:37.813 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:17:40.594 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:17:40.596 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:22:39.051 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:22:39.063 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:27:38.835 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:27:38.860 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:32:37.402 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:32:37.404 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:37:39.340 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:37:39.342 ERROR: C:ackup\gil-main\Drive_S_backup\sntbase\callmess\S000210 year 2
+2014-08-05 12:42:37.155 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:42:37.159 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 12:42:37.691 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\20030606110000.doc created 2003-12-12 15:13:19.000
+2014-08-05 12:42:37.692 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\CheckFile.txt created 2003-12-12 15:13:19.000
+2014-08-05 12:42:37.765 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030606114142_31_26_8966817_02074284400.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:37.827 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124251_31_31_8966817_01314675060.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:37.925 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124258_31_51_8966817_01259725309.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:37.984 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124259_31_44_8966817_01294558681.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.080 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124300_33_24_8966817_.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.093 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124300_34_6_8966817_01313178849.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.232 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124301_34_29_8966817_01698400136.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.296 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124303_34_21_8966817_01592203751.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.417 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124304_34_15_8966817_01224249205.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.429 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124305_32_58_8966817_01592641435.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.485 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124307_34_14_8966817_01414291440.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.548 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124308_33_9_8966817_01506209056.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.666 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124315_31_27_8966817_01224709591.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.674 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124316_34_35_8966817_01542839217.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.684 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124317_30_31_8966817_07793838644.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.741 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124318_30_35_8966817_.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.801 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124325_30_34_8966817_01698882232.r32 created 2003-12-12 15:13:19.000
+2014-08-05 12:42:38.923 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124325_34_49_8966817_01415580476.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:38.979 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124326_31_5_8966817_07743077422.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.036 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124326_34_36_8966817_01505503185.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.091 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124328_30_44_8966817_01418842303.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.201 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124329_30_14_8966817_07759215496.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.358 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124329_30_32_8966817_01355267513.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.378 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124332_30_60_8966817_01314780776.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.442 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124337_27_29_8966817_01463242080.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.563 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124357_26_11_8966817_01324638702.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.576 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124402_26_10_8966817_01383411611.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.638 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124406_26_36_8966817_01698870873.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.644 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124413_23_42_8966817_01292311429.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.701 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124419_24_36_8966817_01314496828.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.764 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124421_24_41_8966817_01316652444.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.829 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124424_24_56_8966817_01418829564.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.842 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124426_24_48_8966817_01563522578.r32 created 2003-12-12 15:13:20.000
+2014-08-05 12:42:39.857 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124427_23_57_8966817_01349861416.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:39.930 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124431_23_8_8966817_07762925379.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:39.994 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124439_23_49_8966817_07743077422.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.078 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124441_24_7_8966817_01592770512.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.085 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124441_32_53_8966817_07745906825.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.150 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124445_23_16_8966817_01417778020.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.159 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124445_23_25_8966817_01875811308.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.214 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124447_32_34_8966817_01324851077.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.229 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124447_32_35_8966817_.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.243 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124450_32_51_8966817_01475520647.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.305 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124503_31_34_8966817_01324884279.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.365 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124503_32_2_8966817_01563548800.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.426 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124505_31_57_8966817_01786463845.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.440 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124506_32_13_8966817_01224683959.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.504 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124506_32_19_8966817_01506494432.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.566 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124507_31_43_8966817_01397772753.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.625 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124511_32_8_8966817_01578760295.r32 created 2003-12-12 15:13:21.000
+2014-08-05 12:42:40.684 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124514_32_29_8966817_01592612121.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.742 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124516_32_16_8966817_01506881263.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.750 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124532_33_28_8966817_.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.758 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124532_34_29_8966817_01418831057.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.816 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124541_31_7_8966817_.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.867 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124550_33_17_8966817_07932433375.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.938 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124551_33_19_8966817_.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:40.954 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124607_34_36_8966817_07748130674.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.011 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124611_34_41_8966817_01506494432.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.070 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124613_33_40_8966817_01417733665.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.133 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124618_33_37_8966817_01415623501.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.256 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124621_33_39_8966817_07745546389.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.266 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124629_33_51_8966817_01563574020.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.305 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124656_27_9_8966817_01294218316.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.364 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124700_27_2_8966817_01314780104.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.422 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124701_27_16_8966817_01236748955.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.481 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124705_27_19_8966817_07761962226.r32 created 2003-12-12 15:13:22.000
+2014-08-05 12:42:41.567 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124723_30_6_8966817_01224489861.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:41.625 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124740_30_29_8966817_01592781916.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:41.689 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124746_30_30_8966817_01417733665.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:41.749 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124801_27_48_8966817_01417767418.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:41.959 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124827_26_20_8966817_01592781916.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.113 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607124935_26_46_8966817_01382889501.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.151 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125006_24_34_8966817_01698266458.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.210 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125008_24_32_8966817_07931973904.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.269 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125033_24_57_8966817_01383414414.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.330 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125037_23_44_8966817_01436820162.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.389 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125115_24_9_8966817_01414232239.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.504 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125116_24_10_8966817_01315540970.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.564 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125129_24_19_8966817_01436820162.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.630 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125329_31_58_8966817_01315520489.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.689 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125354_32_16_8966817_01343821539.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.754 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125443_33_6_8966817_01698268871.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.815 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125513_31_2_8966817_01698268871.r32 created 2003-12-12 15:13:23.000
+2014-08-05 12:42:42.877 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125602_34_33_8966817_01506671788.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:42.941 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125648_33_58_8966817_01343542573.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.003 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125745_27_13_8966817_01382809861.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.064 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125802_27_23_8966817_01416345146.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.126 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607125845_27_31_8966817_01776704192.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.185 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607130806_33_15_8966817_01292590582.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.245 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607131007_33_35_8966817_01414234478.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.301 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607131247_27_45_8966817_01315391645.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.362 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607131833_31_32_8966817_01382862567.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.425 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607131837_31_34_8966817_01292285267.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.481 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607132157_33_39_8966817_01383620059.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.541 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607132532_27_58_8966817_01467632072.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.546 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607132545_26_13_8966817_01349864277.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.596 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607132629_26_30_8966817_01349864277.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.657 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607132710_26_34_8966817_01224825313.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.715 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607133017_24_8_8966817_01312581891.r32 created 2003-12-12 15:13:24.000
+2014-08-05 12:42:43.780 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607133052_23_4_8966817_01560485022.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:43.902 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607133112_23_9_8966817_01382506097.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:43.914 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607133247_31_35_8966817_01224326639.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:43.978 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607133356_32_10_8966817_01560485022.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:44.062 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607134011_30_6_8966817_01415575235.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:44.183 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607134126_27_49_8966817_01387720767.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:44.259 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210\S000210_LOOP_20030607135322_31_28_8966817_01324719645.r32 created 2003-12-12 15:13:25.000
+2014-08-05 12:42:44.259 Checked files: 109 Deleted: 109
+2014-08-05 12:42:44.260 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 12:42:44.287 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\20031205150000.doc created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.288 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\CheckFile.txt created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.305 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209163507_32_47_0301567_07729405899.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.421 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209165037_37_90_0301567_01418487681.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.437 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209181028_30_60_0301567_01506858772.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.500 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209183452_22_7_0301567_02076541500.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.563 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209185806_37_10_0301567_01670353700.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.626 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209185944_37_37_0301567_01386852666.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.686 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209194316_30_44_0301567_02076229669.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.743 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209200001_34_18_0301567_01313378612.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:44.913 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209202656_34_37_0301567_.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:45.048 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209205643_37_82_0301567_01415615948.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:45.055 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209213952_33_7_0301567_02089080336.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:45.114 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209214843_30_33_0301567_02088702166.r32 created 2003-12-12 15:13:34.000
+2014-08-05 12:42:45.177 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209215919_21_39_0301567_02088593828.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.234 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209223948_32_45_0301567_02089534128.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.244 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209233811_34_23_0301567_01723368293.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.303 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209235018_31_12_0301567_01483838543.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.432 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209235245_31_37_0301567_01483838543.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.520 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031209235340_38_82_0301567_01483838543.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.581 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210160925_37_26_0301567_01132818411.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.640 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210161430_35_48_0301567_01132561981.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.699 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210161719_22_39_0301567_.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.761 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210162038_32_48_0301567_.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.826 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210162106_32_52_0301567_.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:45.892 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210162602_33_11_0301567_02088530035.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:46.005 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210164508_31_4_0301567_01457839106.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:46.083 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210164704_31_33_0301567_01313324803.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:46.142 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210164804_35_1_0301567_02085586927.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:46.197 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210170511_22_37_0301567_01217724630.r32 created 2003-12-12 15:13:35.000
+2014-08-05 12:42:46.261 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210172815_33_41_0301567_.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.318 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210173126_21_17_0301567_07719723012.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.383 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210174502_31_33_0301567_01912630071.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.411 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210174543_31_51_0301567_02476335513.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.507 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210174614_22_29_0301567_01925654476.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.687 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210174729_35_31_0301567_.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.743 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210175620_38_81_0301567_01670353700.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.801 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210180018_31_43_0301567_02074114850.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.812 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210180147_37_66_0301567_01212470996.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.872 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210181804_32_16_0301567_01415811282.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.920 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210183911_35_28_0301567_01245324642.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:46.987 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210185544_22_54_0301567_01612314482.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.045 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210190527_21_18_0301567_02089263528.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.054 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210191542_32_42_0301567_01912643996.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.112 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210191623_32_48_0301567_01506670890.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.171 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210191727_32_60_0301567_01670351202.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.226 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210192314_34_56_0301567_01215597721.r32 created 2003-12-12 15:13:36.000
+2014-08-05 12:42:47.288 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210192904_33_30_0301567_01415571212.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.344 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210194018_22_28_0301567_01132690130.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.407 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210194904_30_26_0301567_02084725121.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.462 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210195100_21_9_0301567_02476459110.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.471 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210200916_33_31_0301567_.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.533 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210204609_34_14_0301567_07743405731.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.594 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210210051_38_53_0301567_01217491611.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.655 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210210257_31_54_0301567_02083376233.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.707 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210211838_37_53_0301567_02072872089.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.825 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210212555_37_100_0301567_01543673505.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.836 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210213355_34_16_0301567_02072267694.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.890 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210214559_30_52_0301567_01494723056.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.953 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210214941_30_28_0301567_02083376233.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:47.985 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210215109_21_8_0301567_.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:48.075 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210215649_21_35_0301567_02086461111.r32 created 2003-12-12 15:13:37.000
+2014-08-05 12:42:48.150 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210220545_38_41_0301567_01613741946.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.207 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210222058_34_5_0301567_01417718150.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.266 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210222930_37_101_0301567_01415615948.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.328 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210225058_30_16_0301567_02086550908.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.387 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210225708_21_28_0301567_01912661164.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.447 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210231229_34_3_0301567_01217837479.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.571 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210231531_38_61_0301567_02083469012.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.588 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210231958_33_27_0301567_01142337932.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.644 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210232910_38_119_0301567_02086567973.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.705 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210234218_35_23_0301567_01505682988.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.767 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210235106_35_52_0301567_01316532381.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.824 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210235544_37_98_0301567_01214308673.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.880 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210235632_37_102_0301567_01416496486.r32 created 2003-12-12 15:13:38.000
+2014-08-05 12:42:48.939 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210235647_37_103_0301567_02077204445.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:48.953 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031210235704_37_105_0301567_01416496486.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.021 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211171940_30_15_0301567_01213445822.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.082 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211181908_21_40_0301567_02075800311.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.095 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211203310_34_35_0301567_02077316163.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.153 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211203729_22_4_0301567_01617896602.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.212 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211204747_30_41_0301567_02084290169.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.270 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211205038_33_59_0301567_01315513658.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.328 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211210937_32_35_0301567_02075873506.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.387 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211214157_35_14_0301567_01613701590.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.398 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031211225933_33_11_0301567_.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.518 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212072831_33_6_0301567_01213592228.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.580 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212075100_31_18_0301567_07941171992.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.637 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212075719_37_106_0301567_0207.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.689 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212080755_35_18_0301567_.r32 created 2003-12-12 15:13:39.000
+2014-08-05 12:42:49.752 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212082300_21_8_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:49.810 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212082718_21_35_0301567_01314590048.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:49.870 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212082853_21_43_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:49.933 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212083946_32_26_0301567_07740112473.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:49.996 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212084256_34_43_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.094 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212084451_34_4_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.177 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212090719_30_31_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.300 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212110148_22_9_0301567_07905925513.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.311 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212111944_35_22_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.319 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212112218_37_8_0301567_07879278696.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.370 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212120016_37_30_0301567_02073603600.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.426 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212131002_33_34_0301567_02085363628.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.486 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212131334_31_2_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.549 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212131557_31_39_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.609 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212131903_35_7_0301567_.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.670 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212133638_21_14_0301567_01612310165.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.796 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212145807_31_36_0301567_01612738216.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:42:50.888 Checked files: 108 Deleted: 108
+2014-08-05 12:42:50.887 Deleting: C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858\S000858_LOOP_20031212150349_30_48_0301567_01617897016.r32 created 2003-12-12 15:13:40.000
+2014-08-05 12:47:37.494 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:47:37.498 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 12:47:37.498 Checked files: 0 Deleted: 0
+2014-08-05 12:47:37.500 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 12:47:37.500 Checked files: 0 Deleted: 0
+2014-08-05 12:52:39.216 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:52:39.366 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 12:52:39.367 Checked files: 0 Deleted: 0
+2014-08-05 12:52:39.369 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 12:52:39.370 Checked files: 0 Deleted: 0
+2014-08-05 12:57:37.777 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 12:57:37.781 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 12:57:37.782 Checked files: 0 Deleted: 0
+2014-08-05 12:57:37.783 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 12:57:37.784 Checked files: 0 Deleted: 0
+2014-08-05 13:02:38.734 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:02:38.750 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:02:38.751 Checked files: 0 Deleted: 0
+2014-08-05 13:02:38.753 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:02:38.753 Checked files: 0 Deleted: 0
+2014-08-05 13:07:37.449 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:07:37.453 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:07:37.453 Checked files: 0 Deleted: 0
+2014-08-05 13:07:37.456 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:07:37.456 Checked files: 0 Deleted: 0
+2014-08-05 13:12:37.161 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:12:37.164 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:12:37.165 Checked files: 0 Deleted: 0
+2014-08-05 13:12:37.167 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:12:37.167 Checked files: 0 Deleted: 0
+2014-08-05 13:17:37.153 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:17:37.157 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:17:37.157 Checked files: 0 Deleted: 0
+2014-08-05 13:17:37.159 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:17:37.159 Checked files: 0 Deleted: 0
+2014-08-05 13:22:37.453 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:22:37.457 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:22:37.457 Checked files: 0 Deleted: 0
+2014-08-05 13:22:37.459 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:22:37.460 Checked files: 0 Deleted: 0
+2014-08-05 13:27:37.119 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:27:37.122 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:27:37.123 Checked files: 0 Deleted: 0
+2014-08-05 13:27:37.126 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:27:37.126 Checked files: 0 Deleted: 0
+2014-08-05 13:32:38.572 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:32:38.606 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:32:38.617 Checked files: 0 Deleted: 0
+2014-08-05 13:32:38.622 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:32:38.622 Checked files: 0 Deleted: 0
+2014-08-05 13:37:40.430 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:37:40.434 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:37:40.435 Checked files: 0 Deleted: 0
+2014-08-05 13:37:40.437 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:37:40.437 Checked files: 0 Deleted: 0
+2014-08-05 13:42:39.369 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:42:40.964 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:42:41.007 Checked files: 0 Deleted: 0
+2014-08-05 13:42:41.073 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:42:41.073 Checked files: 0 Deleted: 0
+2014-08-05 13:47:37.844 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:47:37.864 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:47:37.864 Checked files: 0 Deleted: 0
+2014-08-05 13:47:37.866 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:47:37.866 Checked files: 0 Deleted: 0
+2014-08-05 13:52:37.444 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:52:37.448 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:52:37.448 Checked files: 0 Deleted: 0
+2014-08-05 13:52:37.450 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 13:52:37.450 Checked files: 0 Deleted: 0
+2014-08-05 13:57:37.432 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 13:57:37.436 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 13:57:37.436 Checked files: 0 Deleted: 0
+2014-08-05 13:57:37.439 Checked files: 0 Deleted: 0
+2014-08-05 13:57:37.438 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:02:37.172 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:02:37.176 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:02:37.176 Checked files: 0 Deleted: 0
+2014-08-05 14:02:37.178 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:02:37.178 Checked files: 0 Deleted: 0
+2014-08-05 14:07:37.608 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:07:37.612 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:07:37.612 Checked files: 0 Deleted: 0
+2014-08-05 14:07:37.614 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:07:37.615 Checked files: 0 Deleted: 0
+2014-08-05 14:12:37.489 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:12:37.493 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:12:37.493 Checked files: 0 Deleted: 0
+2014-08-05 14:12:37.495 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:12:37.495 Checked files: 0 Deleted: 0
+2014-08-05 14:17:37.168 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:17:37.171 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:17:37.172 Checked files: 0 Deleted: 0
+2014-08-05 14:17:37.174 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:17:37.174 Checked files: 0 Deleted: 0
+2014-08-05 14:22:37.734 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:22:37.738 Checked files: 0 Deleted: 0
+2014-08-05 14:22:37.740 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:22:37.740 Checked files: 0 Deleted: 0
+2014-08-05 14:22:37.738 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:27:47.478 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:27:47.504 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:27:47.515 Checked files: 0 Deleted: 0
+2014-08-05 14:27:47.520 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:27:47.520 Checked files: 0 Deleted: 0
+2014-08-05 14:32:37.418 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:32:37.421 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:32:37.422 Checked files: 0 Deleted: 0
+2014-08-05 14:32:37.424 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:32:37.425 Checked files: 0 Deleted: 0
+2014-08-05 14:37:38.949 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:37:38.953 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:37:38.953 Checked files: 0 Deleted: 0
+2014-08-05 14:37:38.955 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:37:38.955 Checked files: 0 Deleted: 0
+2014-08-05 14:42:38.381 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:42:38.409 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:42:38.420 Checked files: 0 Deleted: 0
+2014-08-05 14:42:38.426 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:42:38.426 Checked files: 0 Deleted: 0
+2014-08-05 14:47:38.674 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:47:38.691 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:47:38.692 Checked files: 0 Deleted: 0
+2014-08-05 14:47:38.694 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:47:38.695 Checked files: 0 Deleted: 0
+2014-08-05 14:52:38.736 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:52:38.746 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:52:38.746 Checked files: 0 Deleted: 0
+2014-08-05 14:52:38.749 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:52:38.749 Checked files: 0 Deleted: 0
+2014-08-05 14:57:39.477 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 14:57:39.842 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 14:57:39.906 Checked files: 0 Deleted: 0
+2014-08-05 14:57:39.914 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 14:57:39.915 Checked files: 0 Deleted: 0
+2014-08-05 15:02:38.748 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:02:38.762 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 15:02:38.763 Checked files: 0 Deleted: 0
+2014-08-05 15:02:38.765 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:02:38.766 Checked files: 0 Deleted: 0
+2014-08-05 15:07:37.134 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:07:37.138 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 15:07:37.138 Checked files: 0 Deleted: 0
+2014-08-05 15:07:37.141 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:07:37.141 Checked files: 0 Deleted: 0
+2014-08-05 15:12:37.864 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:12:37.868 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 15:12:37.868 Checked files: 0 Deleted: 0
+2014-08-05 15:12:37.870 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:12:37.870 Checked files: 0 Deleted: 0
+2014-08-05 15:17:40.034 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:17:40.038 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 15:17:40.039 Checked files: 0 Deleted: 0
+2014-08-05 15:17:40.041 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:17:40.041 Checked files: 0 Deleted: 0
+2014-08-05 15:22:37.691 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:22:37.695 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)
+2014-08-05 15:22:37.695 Checked files: 0 Deleted: 0
+2014-08-05 15:22:37.697 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:22:37.698 Checked files: 0 Deleted: 0
+2014-08-05 15:27:37.316 ERROR: //home//gsingh//testData2 year 2
+2014-08-05 15:27:37.320 Checked files: 0 Deleted: 0
+2014-08-05 15:27:37.322 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000858 older then 2 year(2012-08-05)
+2014-08-05 15:27:37.323 Checked files: 0 Deleted: 0
+2014-08-05 15:27:37.320 Deleting files in : C:\backup\gil-main\Drive_S_backup\sntbase\callmess\S000210 older then 2 year(2012-08-05)

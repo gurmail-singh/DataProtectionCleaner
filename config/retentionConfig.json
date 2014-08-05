@@ -1,0 +1,21 @@
+[
+	{                
+	"path":"//home//gsingh//testData2",
+	"retentionPeriodValue":"2",
+	"retentionPeriodUnit":"years",
+	"logPath":"..//logs"
+	},        
+	{                
+	"path":"C:\\backup\\gil-main\\Drive_S_backup\\sntbase\\callmess\\S000210",
+	"retentionPeriodValue":"2",
+	"retentionPeriodUnit":"years",
+	"logPath":"..//logs"
+	},
+	{                
+	"path":"C:\\backup\\gil-main\\Drive_S_backup\\sntbase\\callmess\\S000858",
+	"retentionPeriodValue":"2",
+	"retentionPeriodUnit":"years",
+	"logPath":"..//logs"
+	}
+   
+]

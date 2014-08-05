@@ -1,0 +1,28 @@
+[
+	{                
+	"path":"//home//gsingh//testData2",
+	"retentionPeriodValue":"2",
+	"retentionPeriodUnit":"years",
+	"logPath":"..//logs",
+	"file_exclude_patterns":
+	[
+		"*.js",
+		"*.wav",
+		"*.project",
+		"*.settings",
+		"*.buildpath"
+	],
+	"searchOnly":
+	[
+		"*.wav",
+		"*.txt",
+		"*.csv"	
+	]
+	},        
+	{                
+	"path":"//home//gsingh//testData",
+	"retentionPeriodValue":"2",
+	"retentionPeriodUnit":"years",
+	"logPath":"..//logs"
+   }
+]
